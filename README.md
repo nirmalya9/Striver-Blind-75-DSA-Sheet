@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
@@ -16,6 +17,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -25,4 +27,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
