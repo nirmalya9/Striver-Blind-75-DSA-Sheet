@@ -21,6 +21,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
@@ -35,6 +36,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -76,6 +78,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
