@@ -50,4 +50,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
