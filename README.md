@@ -67,6 +67,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
