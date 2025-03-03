@@ -176,4 +176,17 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
