@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
@@ -145,6 +147,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
