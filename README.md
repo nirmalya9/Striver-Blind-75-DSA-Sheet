@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@
 | [0020-valid-parentheses](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,8 +152,17 @@
 | [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
