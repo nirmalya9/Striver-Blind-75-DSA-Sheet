@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
