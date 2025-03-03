@@ -15,6 +15,7 @@
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
@@ -43,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -52,6 +55,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -108,4 +112,20 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
