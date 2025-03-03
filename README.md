@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
+| [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
