@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0435-non-overlapping-intervals) |
+| [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
+| [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
+| [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
+| [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
