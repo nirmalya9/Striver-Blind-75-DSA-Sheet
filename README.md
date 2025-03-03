@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -144,5 +145,10 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
