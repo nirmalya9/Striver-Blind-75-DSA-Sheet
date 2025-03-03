@@ -90,6 +90,7 @@
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -102,4 +103,9 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
