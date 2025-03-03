@@ -113,6 +113,7 @@
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
@@ -152,6 +153,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 | [0100-same-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Tree
 |  |
 | ------- |
@@ -186,6 +189,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +197,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -200,4 +205,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
