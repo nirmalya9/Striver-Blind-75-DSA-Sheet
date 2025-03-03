@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
@@ -67,6 +68,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
+| [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
@@ -115,6 +117,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -128,4 +131,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
