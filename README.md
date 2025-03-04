@@ -32,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -221,5 +223,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
