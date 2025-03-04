@@ -131,6 +131,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
 |  |
@@ -217,4 +218,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
