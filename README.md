@@ -84,6 +84,7 @@
 | [0015-3sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
 ## Greedy
@@ -130,11 +131,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 ## Heap (Priority Queue)
@@ -228,5 +231,6 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
