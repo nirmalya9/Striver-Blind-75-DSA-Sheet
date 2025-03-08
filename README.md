@@ -18,6 +18,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
@@ -175,6 +176,7 @@
 | [0054-spiral-matrix](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0417-pacific-atlantic-water-flow) |
 | [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
@@ -192,6 +194,7 @@
 | [0100-same-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -213,6 +216,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -251,4 +255,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0207-course-schedule) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
