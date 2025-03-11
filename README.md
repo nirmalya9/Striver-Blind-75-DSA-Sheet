@@ -15,6 +15,7 @@
 | [0057-insert-interval](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0079-word-search) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
@@ -35,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0141-linked-list-cycle) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
@@ -208,6 +211,7 @@
 | [0100-same-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
@@ -229,6 +233,7 @@
 | [0100-same-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
