@@ -203,6 +203,7 @@
 | [0200-number-of-islands](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
@@ -215,6 +216,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -238,6 +240,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -274,4 +277,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
