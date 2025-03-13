@@ -51,6 +51,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0338-counting-bits) |
@@ -105,6 +106,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/3227-find-missing-and-repeated-values) |
@@ -278,4 +280,8 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
