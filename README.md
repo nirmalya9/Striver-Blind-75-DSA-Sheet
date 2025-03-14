@@ -213,6 +213,7 @@
 | [0207-course-schedule](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0417-pacific-atlantic-water-flow) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
@@ -227,6 +228,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
@@ -253,6 +255,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -290,6 +293,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Memoization
 |  |
 | ------- |
