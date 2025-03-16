@@ -63,6 +63,7 @@
 | [0338-counting-bits](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0338-counting-bits) |
 | [0435-non-overlapping-intervals](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [0394-decode-string](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0647-palindromic-substrings) |
+| [1250-longest-common-subsequence](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
