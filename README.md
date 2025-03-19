@@ -59,6 +59,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -123,6 +124,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0371-sum-of-two-integers) |
@@ -321,4 +323,8 @@
 | ------- |
 | [0139-word-break](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0208-implement-trie-prefix-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/nirmalya9/Striver-Blind-75-DSA-Sheet/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
